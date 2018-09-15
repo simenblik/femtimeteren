@@ -1,0 +1,95 @@
+#body {
+    display:flex;
+    justify-content: center;
+}
+
+#mainBox {
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    flex-wrap: wrap;
+}
+
+#mainPhoto {
+    width:60%;
+    height:80%;
+}
+
+#mainbox h1{
+    font-size: 700%;
+    font-family:Oswald;
+    margin-bottom:-0.7%;
+    margin-top:1%;
+}
+
+#mainText {
+    width:60%;
+    font-size:250%;
+    text-align: left;
+}
+
+#mainText p {
+    font-family: Oswald;
+    margin-bottom:30%;
+}
+
+
+#logos {
+    display: flex;
+    justify-content: center;
+    margin-right:3%;
+}
+
+#flbImg{
+    width:18%;
+    height:16%;
+}
+#okImg {
+    width:11%;
+    height:16%;
+    margin-left:0.5%;
+}
+#khImg{
+    width:11%;
+    height:16%;
+}
+#nkImg{
+    width:18%;
+    height:16%;
+}
+
+@media only screen and (max-width: 600px){
+    #mainPhoto {
+        width:100%;
+    }
+    #mainText {
+        width:100%;
+        font-size:140%;
+    }
+    #flbImg{
+        width:100%;
+        height:30%;
+    }
+    #okImg {
+        width:40%;
+        height:35%;
+    }
+    #khImg{
+        width:40%;
+        height:35%;
+        margin-bottom:3%;
+    }
+    #nkImg{
+        width:100%;
+        height:30%;
+    }
+    #logos{
+        display:flex;
+        flex-direction: column;
+        margin-right: 0%;
+        align-items: center;
+    }
+    #mainBox h1{
+        font-size:400%
+    }
+}
