@@ -92,6 +92,10 @@
         align-items: center;
     }
     #mainBox h1{
-        font-size:400%
+        font-size:600%
+    }
+    
+    #titlePeople{
+        font-size:250%;
     }
 }
