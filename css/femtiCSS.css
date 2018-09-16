@@ -74,11 +74,11 @@
     }
     #okImg {
         width:40%;
-        height:25%;
+        height:20%;
     }
     #khImg{
         width:40%;
-        height:25%;
+        height:20%;
         margin-bottom:3%;
     }
     #nkImg{
@@ -96,6 +96,10 @@
     }
     
     #titlePeople{
+        font-size:70%;
+    }
+    
+    #rolesPeople {
         font-size:70%;
     }
 }
