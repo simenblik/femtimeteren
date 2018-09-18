@@ -56,7 +56,7 @@
     width:30%;
     height:13%;
 }
-@media only screen and (max-device-width: 667px){
+@media (pointer: coarse){
     #mainPhoto {
         width:100%;
     }
