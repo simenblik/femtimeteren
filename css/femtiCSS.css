@@ -59,6 +59,14 @@
 #orgatitle {
     font-family: Oswald;
 }
+#roles {
+    display: flex;
+    flex-direction:row;
+}
+#peopleInRoles {
+    margin-left:8%;
+}
+
 
 @media (pointer: coarse){
     #body {
@@ -88,7 +96,7 @@
         height:25%;
     }
     #logoline1 {
-        width:50%;
+        width:100%;
         display:flex;
         flex-wrap: wrap;
         flex-direction: row;
