@@ -11,56 +11,52 @@
 }
 
 #mainPhoto {
-    width:60%;
-    height:80%;
-    margin-bottom: 15%;
+    width:50%;
+    height:65%;
 }
 
 #mainbox h1{
-    font-size: 700%;
+    font-size: 500%;
     font-family:Oswald;
-    margin-bottom:-0.7%;
-    margin-bottom: 20%; 
+    margin-bottom:10%;
+     
 }
 
 #mainText {
-    width:60%;
+    width:50%;
     font-size:250%;
     text-align: left;
 }
 
 #mainText p {
     font-family: Oswald;
-    margin-bottom:30%;
+    margin-bottom:20%;
 }
 
 
-#logos {
-    display: flex;
+#logoline1 {
     
-    justify-content: center;
-    margin-right:3%;
-    width:60%;
+    width:50%;
 }
 
 #flbImg{
-    width:40%;
-    height:25%;
+    width:30%;
+    height:15%;
 }
 #okImg {
-    width:25%;
-    height:25%;
+    width:20%;
+    height:15%;
 }
 #khImg{
-    width:25%;
-    height:25%;
+    width:13%;
+    height:13%;
+    
 }
 #nkImg{
-    width:40%;
-    height:25%;
+    width:30%;
+    height:13%;
 }
-
-@media only screen and (min-device-width:375px) and (max-device-width: 667px){
+@media only screen and (min-device-width:320px) and (max-device-width: 667px){
     #mainPhoto {
         width:100%;
     }
@@ -85,11 +81,9 @@
         width:100%;
         height:25%;
     }
-    #logos{
+    #logoline1 {
+        width:50%;
         display:flex;
-        flex-direction: column;
-        margin-right: 0%;
-        align-items: center;
     }
     #mainBox h1{
         font-size:600%
@@ -103,3 +97,4 @@
         font-size:70%;
     }
 }
+
