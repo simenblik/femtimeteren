@@ -56,6 +56,10 @@
     width:30%;
     height:13%;
 }
+#orgatitle {
+    font-family: Oswald;
+}
+
 @media (pointer: coarse){
     #body {
         width:100%;
@@ -101,6 +105,9 @@
     }
     #orgatitle{
         font-size:70%;
+    }
+    #mainText p {
+        font-size:50%;
     }
 }
 
