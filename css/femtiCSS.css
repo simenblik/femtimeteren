@@ -57,6 +57,9 @@
     height:13%;
 }
 @media (pointer: coarse){
+    #body {
+        width:100%;
+    }
     #mainPhoto {
         width:100%;
     }
@@ -83,7 +86,7 @@
     }
     #logoline1 {
         width:50%;
-        display:flex;
+        
     }
     #mainBox h1{
         font-size:600%
