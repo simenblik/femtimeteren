@@ -81,7 +81,7 @@
     }
     #flbImg{
         width:30%;
-        height:15%;
+        height:12%;
     }
     #okImg {
         width:18%;
@@ -89,11 +89,11 @@
     }
     #khImg{
         width:15%;
-        height:12%;
+        height:10%;
     }
     #nkImg{
         width:30%;
-        height:15%;
+        height:12%;
     }
     #logoline1 {
         width:100%;
@@ -104,11 +104,9 @@
     #mainBox h1{
         font-size:600%
     }
-    
     #titlePeople{
         font-size:70%;
     }
-    
     #rolesPeople {
         font-size:70%;
     }
