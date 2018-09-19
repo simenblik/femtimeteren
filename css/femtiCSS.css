@@ -98,8 +98,7 @@
     #logoline1 {
         width:100%;
         display:flex;
-        flex-wrap: wrap;
-        flex-direction: row;
+        flex-direction: column;
     }
     #mainBox h1{
         font-size:600%
