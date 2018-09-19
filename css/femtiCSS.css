@@ -96,7 +96,7 @@
         height:25%;
     }
     #logoline1 {
-        width:200%;
+        width:100%;
         display:flex;
         flex-direction: row;
     }
