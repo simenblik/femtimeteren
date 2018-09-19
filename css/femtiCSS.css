@@ -80,25 +80,26 @@
         font-size:450%;
     }
     #flbImg{
-        width:25%;
+        width:30%;
         height:15%;
     }
     #okImg {
         width:18%;
-        height:15%;
+        height:13%;
     }
     #khImg{
         width:15%;
-        height:16%;
+        height:12%;
     }
     #nkImg{
-        width:25%;
+        width:30%;
         height:15%;
     }
     #logoline1 {
         width:100%;
         display:flex;
         flex-direction: row;
+        margin-left:10%;
     }
     #mainBox h1{
         font-size:600%
