@@ -77,7 +77,10 @@
     }
     #mainText {
         width:100%;
-        font-size:450%;
+        font-size:400%;
+    }
+    #mainBox h1{
+        font-size: 90%;
     }
     #flbImg{
         width:30%;
