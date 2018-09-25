@@ -24,13 +24,19 @@
 
 #mainText {
     width:50%;
-    font-size:250%;
+    font-size:220%;
     text-align: left;
 }
 
 #mainText p {
     font-family: Oswald;
     margin-bottom:20%;
+    
+}
+#mainText a {
+    text-decoration: none;
+    color: skyblue;
+    
 }
 
 
@@ -62,6 +68,7 @@
 #roles {
     display: flex;
     flex-direction:row;
+    margin-top:-5%;
 }
 #peopleInRoles {
     margin-left:8%;
